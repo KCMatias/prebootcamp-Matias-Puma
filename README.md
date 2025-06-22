@@ -1,3 +1,6 @@
+Soy el alumno Matias valentin Puma Reyes de el Segundo ciclo de Senati
+
+
 Verificación de Edad para Conducir en Perú 🚗
 
 Este es un pequeño proyecto web que hice usando HTML y JavaScript. La idea es simple: cuando abres la página, te pide tu nombre y tu edad. Luego, según tu edad, te dice si puedes sacar tu permiso de conducir en Perú o no.
@@ -43,7 +46,7 @@ if (edad <= 0 || isNaN(edad)) {
     document.getElementById("mensaje").style.display = "block";
     document.getElementById("mensaje").style.fontSize = "20px";
 }
-Código de HTML (index.html)
+## Código de html
 
 <!DOCTYPE html>
 <html lang="es">
